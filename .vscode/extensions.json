@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "ecmel.vscode-html-css",
+    "formulahendry.auto-rename-tag",
+    "dsznajder.es7-react-js-snippets"
+  ]
+}
